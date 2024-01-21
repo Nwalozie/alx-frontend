@@ -9,10 +9,13 @@
 }
 
 html {
+    scroll-behavior: smooth;
     font-size: var(--html-font-size);
 }
 
 body {
+    color: var(--text-color);
+    font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
 }
 
